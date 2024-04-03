@@ -1,5 +1,14 @@
 ## Bem-vindo(a) bl4ckleeh
 
+<section class="home">
+    <div class="informacoes">
+      <h1>Olá! Sou Alexandre Araújo</h1>
+      <p>Um desenvolvedor frontend em formação apaixonado por tecnologia.</p>
+      <p>Estou sempre me desafiando com novos projetos e buscando feedback na comunidade de programação, além de
+        compartilhar meus conhecimentos. 😁</p>
+      <p>Ah, também sou fã de jogos, filmes, mangás e animes. 💜</p>
+     </div>
+   </section>
  <div>
    <a href="https://github.com/bl4ckleeh">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bl4ckleeh
